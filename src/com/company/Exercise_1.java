@@ -14,7 +14,7 @@ public class Exercise_1 {
             a[i]= sc.nextInt();
             sum += a[i];
         }
-        System.out.println("sum: "+sum+"\npersentage: "+(sum*100)/(n*100)+"%");
+        System.out.println("sum: "+sum+"\npercentage: "+(sum*100)/(n*100)+"%");
 
     }
 }
