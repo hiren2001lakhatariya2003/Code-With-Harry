@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.Scanner;
 
-public class Exercise_1 {
+public class CWH_9_Exercise_1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

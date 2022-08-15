@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.Scanner;
 // scan his/her name to print it
-public class Parctice_Set_1_3 {
+public class CWH_11_Parctice_Set_1_3 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String name = sc.next();

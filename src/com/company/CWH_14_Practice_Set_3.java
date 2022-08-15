@@ -1,6 +1,6 @@
 package com.company;
 
-public class CWH_12_Practice_Set_3 {
+public class CWH_14_Practice_Set_3 {
     public static void main(String[] args) {
         //(1) Write a Java program to convert string to lowercase
 

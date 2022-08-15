@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.Scanner;
 // sum of three numbers
-public class Practice_Set_1_1 {
+public class CWH_11_Practice_Set_1_1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int size= sc.nextInt();

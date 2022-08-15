@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.Scanner;
 // find CGPA
-public class Practice_Set_1_2 {
+public class CWH_11_Practice_Set_1_2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int size= sc.nextInt();
